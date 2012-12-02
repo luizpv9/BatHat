@@ -9,6 +9,6 @@ require('./models')(App);
 // -----------------------------------------------------------------------------
 // Routes
 // -----------------------------------------------------------------------------
-App.RESTful(App.models.User);
-
+App.RESTful(App.models.users);
 App.listen(2222);
+console.log(App.e.routes);
