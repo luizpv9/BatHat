@@ -1,0 +1,8 @@
+*~
+*.swp
+node_modules/underscore
+node_modules/underscore/*
+node_modules/express
+node_modules/express/*
+node_modules/mongodb
+node_modules/mongodb/*
