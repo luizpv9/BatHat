@@ -1,4 +1,4 @@
-# BatHat.js is a framework for an easy and fun development of a REST API. #
+# BatHat.js is a framework for ~easy and fun~ development of Web Apps.
 
 It has express (and, of course, NodeJS) for the HTTP Server, and MongoDB
 as the database.
