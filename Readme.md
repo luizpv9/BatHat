@@ -6,5 +6,4 @@ as the database.
 
 As the project grows, more documentation and tutorials will be added.
 
-## This is an example-app using the BatHat framework. The contents for the real
-module will be added after some progress  ##
+> This is an example-app using the BatHat framework. The contents for the real module will be added after some progress 
