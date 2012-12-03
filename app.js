@@ -11,4 +11,3 @@ require('./models')(App);
 // -----------------------------------------------------------------------------
 App.RESTful(App.models.users);
 App.listen(2222);
-console.log(App.e.routes);
